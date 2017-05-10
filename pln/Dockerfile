@@ -2,7 +2,7 @@
 # Distributed under the terms of the Modified BSD License.
 FROM jupyter/minimal-notebook
 
-MAINTAINER Pedro Gonzalez, Isa  
+MAINTAINER Jupyter Project <jupyter@googlegroups.com>
 
 USER root
 
